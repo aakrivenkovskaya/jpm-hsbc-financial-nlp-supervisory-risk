@@ -1,5 +1,5 @@
 # Cambridge × Bank of England  
-# Supervisory-Grade Financial NLP System**  
+# Supervisory-Grade Financial NLP System
 ### **JP Morgan & HSBC Earnings Call Q&A Analysis (2023–2025)**
 
 This repository presents a **supervisory-grade Financial NLP system** developed **on the University of Cambridge Data Science Programme**, in **analytical collaboration with senior practitioners from the Bank of England’s Prudential Regulation Authority (PRA)**.
